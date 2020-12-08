@@ -32,6 +32,6 @@ https://thegraph.club/eth2dep
 
 We'll be adding more dashboards soon.
 
-Look for trades and liquidity details for Curve.fi DeFi platform, check seaps on 1inch and monitoring ETH 2.0 deposits - useful dashboards.
+Look for trades and liquidity details for Curve.fi DeFi platform, check swaps on 1inch and monitoring ETH 2.0 deposits - useful dashboards.
 
 We believe that our work will become a shining example of what can be done quickly with the help of subgraphs and will motivate others to develop the project and contribute.
